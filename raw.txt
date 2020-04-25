@@ -1,0 +1,81 @@
+<ul class="gc-locations-map__legend-list"><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Aarhus
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Amsterdam
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Athens
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Berlin
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Bratislava
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Brussels
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Bucharest
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Budapest
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Copenhagen
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Dublin (EU HQ)
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Eemshaven
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Frankfurt
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Grenoble
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Hamburg
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Hamina
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Helsinki
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Kiev
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Krakow
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Lisbon
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+London
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Lubeck
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Madrid
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Malaga
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Manchester
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Milan
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Moscow
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Munich
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Oslo
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Paris
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Prague
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Rennes
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Rome
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Saint-Ghislain
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Stockholm
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Vienna
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Vilnius
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Warsaw
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Wroclaw
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Zagreb
+</li><li data-gtm-ref="location-city-click" class="gc-locations-map__legend-list-item">
+Zurich
+</li></ul>
