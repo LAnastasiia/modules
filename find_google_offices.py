@@ -1,3 +1,5 @@
+# This module is solving a word puzzle and finds cities of given list inside a matrix of letters.
+
 from copy import copy
 import pygtrie as trie
 
